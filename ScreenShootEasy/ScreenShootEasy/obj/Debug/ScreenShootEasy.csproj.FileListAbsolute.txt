@@ -1,0 +1,10 @@
+C:\Users\Mustafa\source\repos\ScreenShootEasy\ScreenShootEasy\bin\Debug\ScreenShootEasy.exe.config
+C:\Users\Mustafa\source\repos\ScreenShootEasy\ScreenShootEasy\bin\Debug\ScreenShootEasy.exe
+C:\Users\Mustafa\source\repos\ScreenShootEasy\ScreenShootEasy\bin\Debug\ScreenShootEasy.pdb
+C:\Users\Mustafa\source\repos\ScreenShootEasy\ScreenShootEasy\obj\Debug\ScreenShootEasy.csprojAssemblyReference.cache
+C:\Users\Mustafa\source\repos\ScreenShootEasy\ScreenShootEasy\obj\Debug\ScreenShootEasy.Form1.resources
+C:\Users\Mustafa\source\repos\ScreenShootEasy\ScreenShootEasy\obj\Debug\ScreenShootEasy.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\ScreenShootEasy\ScreenShootEasy\obj\Debug\ScreenShootEasy.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\ScreenShootEasy\ScreenShootEasy\obj\Debug\ScreenShootEasy.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\ScreenShootEasy\ScreenShootEasy\obj\Debug\ScreenShootEasy.exe
+C:\Users\Mustafa\source\repos\ScreenShootEasy\ScreenShootEasy\obj\Debug\ScreenShootEasy.pdb
